@@ -2,7 +2,7 @@
 
 This repository contains the full-stack Data Dawgs web application, including a Django backend, a React frontend, and data analysis notebooks.
 
-Originally written in 2024 but moved to github has an example project in 2025.
+Originally written in 2024 but moved to github as an example project in 2025.
 No longer guarenteed to be working, must have API keys and those have been removed from the code. 
 
 ## Project Structure
